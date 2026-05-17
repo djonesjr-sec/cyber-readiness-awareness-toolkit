@@ -3,6 +3,7 @@
 ## Purpose
 
 This guide explains common manipulation tactics used in phishing, scams, and social engineering attacks.
+
 Attackers often try to influence emotions and decision-making so people act quickly without verifying the request.
 ---
 
