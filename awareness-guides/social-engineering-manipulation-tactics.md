@@ -27,6 +27,7 @@ People under pressure are more likely to click links, approve requests, or share
 ### Safer Response
 
 Slow down and verify the request another way before taking action.
+
 ---
 
 ## Fear
@@ -48,6 +49,7 @@ Fear can cause people to rush decisions, click unsafe links, share sensitive inf
 ### Safer Response
 
 Do not panic or immediately trust the message. Verify the alert directly through the official website, app, or support contact.
+
 ---
 
 ## Authority
@@ -77,6 +79,7 @@ People are more likely to comply with requests when they believe the message com
 ### Safer Response
 
 Verify the request using a trusted phone number, website, or direct conversation before responding or sharing information
+
 ---
 
 ## Scarcity
@@ -99,6 +102,7 @@ When people believe they may lose access, miss an opportunity, or face a deadlin
 ### Safer Response
 
 Slow down before responding. Verify the message using a trusted source before clicking links, sharing information, or making payments.
+
 ---
 
 ## Curiosity
@@ -120,6 +124,7 @@ People naturally want answers, hidden information, or unexpected details. Attack
 ### Safer Response
 
 Avoid opening unexpected links or attachments. Verify the sender and confirm the message through another trusted method if necessary.
+
 ---
 
 ## Excitement
@@ -141,6 +146,7 @@ Positive emotions can reduce skepticism and make people more likely to click lin
 ### Safer Response
 
 Be cautious of unexpected prizes, rewards, or financial offers. Verify the message directly through the official company website or app before responding.
+
 ---
 
 ## Secrecy
@@ -162,6 +168,7 @@ If a person verifies the request with someone else, the scam may be discovered. 
 ### Safer Response
 
 Be cautious of requests that discourage verification or pressure you to keep something secret. When possible, confirm the request with a trusted person, manager, or official support channel.
+
 ---
 
 ## Trust or Familiarity
