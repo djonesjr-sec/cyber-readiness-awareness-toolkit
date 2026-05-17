@@ -4,6 +4,8 @@
 
 Phishing and social engineering attacks try to manipulate people into clicking unsafe links, sharing sensitive information, sending money, approving access, or downloading malware.
 
+---
+
 These attacks are among the most common cybersecurity threats affecting:
 - individuals
 - families
